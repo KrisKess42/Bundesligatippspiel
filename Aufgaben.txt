@@ -1,0 +1,4 @@
+- einzelne Eingaben ändern/ korrigieren
+- Daten in separater .js-Datei auslagern
+- Verlinkung der einzelnen Seiten zueinander
+- Namensverwaltung

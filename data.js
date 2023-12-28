@@ -1,0 +1,20 @@
+const teams = ["FC Bayern München",
+"FC Augsburg",
+"Borussia Dortmund",
+"Mainz 05",
+"Eintracht Frankfurt",
+"1899 Hoffenheim",
+"VfB Stuttgart",
+"VfL Bochum",
+"1. FC Köln",
+"Borussia Mönchengladbach",
+"Bayer 04 Leverkusen",
+"Union Berlin",
+"VfL Wolfsburg",
+"SV Werder Bremen",
+"SC Freiburg",
+"RB Leipzig",
+"1. FC Heidenheim",
+"Darmstadt 98"];
+    
+export default teams;
